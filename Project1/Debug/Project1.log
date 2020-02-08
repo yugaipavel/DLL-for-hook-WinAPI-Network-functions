@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(342,7): warning C4101: resret: неиспользованная локальная переменная
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(505,24): warning C4244: аргумент: преобразование "DWORD" в "_Elem", возможна потеря данных
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(505,24): warning C4244:         with
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(505,24): warning C4244:         [
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(505,24): warning C4244:             _Elem=char
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(505,24): warning C4244:         ]
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(563,19): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(568,40): warning C4244: =: преобразование "const wchar_t" в "char", возможна потеря данных
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(579,18): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(610,19): warning C4129: .: неизвестная escape-последовательность
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(673,37): warning C4129: .: неизвестная escape-последовательность
+  Project1.vcxproj -> D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Debug\Project1.dll

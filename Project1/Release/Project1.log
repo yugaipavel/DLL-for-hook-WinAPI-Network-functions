@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(598,19): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(603,40): warning C4244: =: преобразование "const wchar_t" в "char", возможна потеря данных
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(614,18): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(645,19): warning C4129: .: неизвестная escape-последовательность
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(854): warning C4172: возвращение адреса локальной или временной переменной : buffer
+D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Project1\Source.cpp(785): warning C4715: check_domain: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> D:\Users\Desktop\IBKS\5_course_1_semester\Zhukovsky\Laba5\DLL_for_AV\Project1\Release\Project1.dll
